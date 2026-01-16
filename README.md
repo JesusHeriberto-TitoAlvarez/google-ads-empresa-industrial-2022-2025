@@ -25,10 +25,10 @@ Todas las métricas se presentan de forma **agregada y anonimizada**, priorizand
 - **[01. Fundamentos y aprendizaje (Oct 2022 – Mar 2023)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/01-fundamentos-y-aprendizaje-2022-2023/README.md)**  
   Construcción de la base operativa: estructura por ciudad, validación de mensajes y mejora progresiva de relevancia.
 
-- **[02. Optimización sostenida (Abr 2023 – Jun 2024)](case-studies/02-optimizacion-sostenida-2023-2024/)**  
+- **[02. Optimización sostenida (Abr 2023 – Jun 2024)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/02-optimizacion-sostenida-2023-2024/README.md)**  
   Operación estable a largo plazo: control de eficiencia, priorización por mercado y disciplina de optimización continua.
 
-- **[03. Madurez y escalado (Jul 2024 – Abr 2025)](case-studies/03-madurez-y-escalado-2024-2025/)**  
+- **[03. Madurez y escalado (Jul 2024 – Abr 2025)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/03-madurez-y-escalado-2024-2025/README.md)**  
   Escalado con automatización y control: alto volumen de tráfico, bajo CPC y gestión de campañas en fase madura.
 
 ---
