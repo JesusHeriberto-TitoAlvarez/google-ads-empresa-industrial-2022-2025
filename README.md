@@ -1,4 +1,4 @@
-# Google Ads Portfolio — Performance Case Studies
+# Google Ads Portfolio - Performance Case Studies
 
 Bienvenido/a.  
 Este repositorio presenta una **selección curada de case studies reales de Google Ads**, gestionados de forma continua durante **más de 30 meses**, desde la fase inicial de aprendizaje hasta la **madurez y escalado de campañas**.
