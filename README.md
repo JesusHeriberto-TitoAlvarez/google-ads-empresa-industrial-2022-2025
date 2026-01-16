@@ -1,11 +1,24 @@
-# Google Ads Portfolio - Performance Case Studies
+# Google Ads Portfolio — Performance Case Studies
 
 Bienvenido/a.  
 Este repositorio presenta una **selección curada de case studies reales de Google Ads**, gestionados de forma continua durante **más de 30 meses**, desde la fase inicial de aprendizaje hasta la **madurez y escalado de campañas**.
 
-El objetivo de este portafolio es demostrar **criterio profesional**, **capacidad de análisis**, y **experiencia práctica en performance marketing**, más allá de métricas aisladas o resultados puntuales.
+El objetivo de este portafolio es demostrar **criterio profesional**, **capacidad de análisis** y **experiencia práctica en performance marketing**, más allá de métricas aisladas o resultados puntuales.
 
 Los casos están organizados por **etapas de madurez**, reflejando cómo evolucionan las decisiones, el control y la eficiencia a lo largo del tiempo en campañas reales.
+
+---
+
+## 📈 Vista general del periodo (2022–2025)
+
+La siguiente visualización presenta una **vista agregada del rendimiento global** de las campañas de Google Ads durante todo el periodo analizado.  
+Se incluye como **referencia contextual** para entender la escala, evolución y eficiencia general del trabajo.
+
+El análisis detallado, las decisiones y los aprendizajes se desarrollan en los **case studies individuales** organizados por etapa de madurez.
+
+<p align="center">
+  <img src="assets/google-ads-overview-2022-2025.png" alt="Google Ads performance overview 2022–2025" width="100%">
+</p>
 
 ---
 
@@ -22,13 +35,13 @@ Todas las métricas se presentan de forma **agregada y anonimizada**, priorizand
 
 ## 🧩 Case Studies
 
-- **[01. Fundamentos y aprendizaje (Oct 2022 – Mar 2023)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/01-fundamentos-y-aprendizaje-2022-2023/README.md)**  
+- **[01. Fundamentos y aprendizaje (Oct 2022 – Mar 2023)](case-studies/01-fundamentos-y-aprendizaje-2022-2023/)**  
   Construcción de la base operativa: estructura por ciudad, validación de mensajes y mejora progresiva de relevancia.
 
-- **[02. Optimización sostenida (Abr 2023 – Jun 2024)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/02-optimizacion-sostenida-2023-2024/README.md)**  
+- **[02. Optimización sostenida (Abr 2023 – Jun 2024)](case-studies/02-optimizacion-sostenida-2023-2024/)**  
   Operación estable a largo plazo: control de eficiencia, priorización por mercado y disciplina de optimización continua.
 
-- **[03. Madurez y escalado (Jul 2024 – Abr 2025)](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio/blob/main/03-madurez-y-escalado-2024-2025/README.md)**  
+- **[03. Madurez y escalado (Jul 2024 – Abr 2025)](case-studies/03-madurez-y-escalado-2024-2025/)**  
   Escalado con automatización y control: alto volumen de tráfico, bajo CPC y gestión de campañas en fase madura.
 
 ---
