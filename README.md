@@ -1,4 +1,4 @@
-# Google Ads Portfolio - Performance Case Studies
+# Google Ads - Empresa Industrial y Comercial (Presencia Nacional) | 2022-2025
 
 Bienvenido/a.  
 Este repositorio presenta una **selección curada de case studies reales de Google Ads**, gestionados de forma continua durante **más de 30 meses**, desde la fase inicial de aprendizaje hasta la **madurez y escalado de campañas**.
